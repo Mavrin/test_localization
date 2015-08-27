@@ -16,6 +16,13 @@
   {
     "rtl": false,
     "pluralequation": "language.pluralequation",
+    "code": "ar-EG",
+    "name": "Arabic (Egypt)",
+    "nplurals": 6
+  },
+  {
+    "rtl": false,
+    "pluralequation": "language.pluralequation",
     "code": "ba",
     "name": "Bashkir",
     "nplurals": 1
