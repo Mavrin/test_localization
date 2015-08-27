@@ -9,6 +9,13 @@
   {
     "rtl": false,
     "pluralequation": "language.pluralequation",
+    "code": "am-ET",
+    "name": "Amharic (Ethiopia)",
+    "nplurals": 2
+  },
+  {
+    "rtl": false,
+    "pluralequation": "language.pluralequation",
     "code": "ba",
     "name": "Bashkir",
     "nplurals": 1
