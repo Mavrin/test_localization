@@ -2,34 +2,6 @@
   {
     "rtl": false,
     "pluralequation": "language.pluralequation",
-    "code": "af",
-    "name": "Afrikaans",
-    "nplurals": 2
-  },
-  {
-    "rtl": false,
-    "pluralequation": "language.pluralequation",
-    "code": "am-ET",
-    "name": "Amharic (Ethiopia)",
-    "nplurals": 2
-  },
-  {
-    "rtl": false,
-    "pluralequation": "language.pluralequation",
-    "code": "ar-EG",
-    "name": "Arabic (Egypt)",
-    "nplurals": 6
-  },
-  {
-    "rtl": false,
-    "pluralequation": "language.pluralequation",
-    "code": "ba",
-    "name": "Bashkir",
-    "nplurals": 1
-  },
-  {
-    "rtl": false,
-    "pluralequation": "language.pluralequation",
     "code": "be",
     "name": "Belarusian",
     "nplurals": 4
