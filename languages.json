@@ -9,6 +9,13 @@
   {
     "rtl": false,
     "pluralequation": "language.pluralequation",
+    "code": "en-AU",
+    "name": "English (Australia)",
+    "nplurals": 2
+  },
+  {
+    "rtl": false,
+    "pluralequation": "language.pluralequation",
     "code": "ru",
     "name": "Russian",
     "nplurals": 4
