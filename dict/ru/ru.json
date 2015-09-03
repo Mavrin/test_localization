@@ -18,7 +18,7 @@
     "Quick add work and people": "Quick add work and people",
     "Read more": "Читать дальше аааааа бббббб вввввв гггггг дддддд ",
     "Set limits to work in progress": "Set limits to work in progress",
-    "Setup": "Установка Установка Установка Установка",
+    "Setup": "Установка аааааа бббббб вввввв гггггг",
     "Show menu": "Показать меню Показать меню Показать меню",
     "Total": "Итого Итого Итого Итого Итого",
     "User guide": "Руководство пользователя Руководство пользователя ",
@@ -26,7 +26,7 @@
     "You can set custom highlighting for the cards on this View. A card can have up to three colors applied at one time.": "You can set custom highlighting for the cards on this View. A card can have up to three colors applied at one time.",
     "You need to make a selection of the card types to activate this tab": "You need to make a selection of the card types to activate this tab",
     "You need to set States as a horizontal or vertical lane to activate this tab": "You need to set States as a horizontal or vertical lane to activate this tab",
-    "Your password and confirmation password don't match": "Your password and confirmation password don't match",
+    "Your password and confirmation password don't match": "Пароль и подтверждение пароля не совпадают",
     "show more": "show more",
     "{blockersCount, select, 0 {You can't see <b>{count}</b> {relationType} {count, plural, one {relation} other {relations}}.} other {You can't see <b>{count}</b> {relationType} {count, plural, one {relation} other {relations}}, <i>{blockersCount}</i> of them {blockersCount, plural, one {is a blocker} other {are blockers}}.}} The project might be deleted or you do not have sufficient permissions.": "{blockersCount, select, 0 {You can't see <b>{count}</b> {relationType} {count, plural, one {relation} other {relations}}.} other {You can't see <b>{count}</b> {relationType} {count, plural, one {relation} other {relations}}, <i>{blockersCount}</i> of them {blockersCount, plural, one {is a blocker} other {are blockers}}.}} The project might be deleted or you do not have sufficient permissions.",
     "Color": "Color"
