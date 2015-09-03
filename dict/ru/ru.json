@@ -27,7 +27,7 @@
     "You need to make a selection of the card types to activate this tab": "You need to make a selection of the card types to activate this tab",
     "You need to set States as a horizontal or vertical lane to activate this tab": "You need to set States as a horizontal or vertical lane to activate this tab",
     "Your password and confirmation password don't match": "Пароль и подтверждение пароля не совпадают",
-    "show more": "show more",
+    "show more": "Показать больше карточек Показать больше карточек",
     "{blockersCount, select, 0 {You can't see <b>{count}</b> {relationType} {count, plural, one {relation} other {relations}}.} other {You can't see <b>{count}</b> {relationType} {count, plural, one {relation} other {relations}}, <i>{blockersCount}</i> of them {blockersCount, plural, one {is a blocker} other {are blockers}}.}} The project might be deleted or you do not have sufficient permissions.": "{blockersCount, select, 0 {You can't see <b>{count}</b> {relationType} {count, plural, one {relation} other {relations}}.} other {You can't see <b>{count}</b> {relationType} {count, plural, one {relation} other {relations}}, <i>{blockersCount}</i> of them {blockersCount, plural, one {is a blocker} other {are blockers}}.}} The project might be deleted or you do not have sufficient permissions.",
     "Color": "Color"
 }
