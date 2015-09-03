@@ -15,9 +15,9 @@
     "Please enter email": "Пожалуйста, введите, email",
     "Please enter login": "Пожалуйста, введите, логин",
     "Please provide weekly hours": "Пожалуйста, укажите рабочие часы",
-    "Quick add work and people": "Quick add work and people",
+    "Quick add work and people": "Быстрое добавление задач и людей",
     "Read more": "Читать дальше аааааа бббббб вввввв гггггг дддддд ",
-    "Set limits to work in progress": "Set limits to work in progress",
+    "Set limits to work in progress": "Установить лимиты для работы в прогрессе",
     "Setup": "Установка аааааа бббббб вввввв гггггг",
     "Show menu": "Показать меню Показать меню Показать меню",
     "Total": "Итого Итого Итого Итого Итого",
@@ -29,5 +29,5 @@
     "Your password and confirmation password don't match": "Пароль и подтверждение пароля не совпадают",
     "show more": "Показать больше карточек Показать больше карточек",
     "{blockersCount, select, 0 {You can't see <b>{count}</b> {relationType} {count, plural, one {relation} other {relations}}.} other {You can't see <b>{count}</b> {relationType} {count, plural, one {relation} other {relations}}, <i>{blockersCount}</i> of them {blockersCount, plural, one {is a blocker} other {are blockers}}.}} The project might be deleted or you do not have sufficient permissions.": "{blockersCount, select, 0 {Вы не можете видеть <b>{count}</b> {relationType} {count, plural, one {relation} other {relations}}.} other {Вы не можете видеть <b>{count}</b> {relationType} {count, plural, one {relation} other {relations}}, <i>{blockersCount}</i> из них {blockersCount, plural, one {это blocker} other {это blockers}}.}} Возможно, проект был удален, или у вас недостаточные права доступа.",
-    "Color": "Color"
+    "Color": "Цвет ааааа ббббб ввввв"
 }
