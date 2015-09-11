@@ -26,5 +26,7 @@
     "You need to make a selection of the card types to activate this tab": "You need to make a selection of the card types to activate this tab",
     "You need to set States as a horizontal or vertical lane to activate this tab": "You need to set States as a horizontal or vertical lane to activate this tab",
     "Your password and confirmation password don't match": "Your password and confirmation password don't match",
-    "show more": "show more"
+    "show more": "show more",
+    "Do you really want to remove this {viewTypeName}": "Do you really want to remove this {viewTypeName}",
+    "Highlight cards with different colors by custom rules d": "Highlight cards with different colors by custom rules d"
 }
