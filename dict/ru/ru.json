@@ -175,5 +175,10 @@
     "The active directory name login should be unique in the system": "The active directory name login should be unique in the system",
     "Email should be unique": "Email should be unique",
     "Only admin can change user email if Single Sign On is enabled": "Only admin can change user email if Single Sign On is enabled",
-    "Weekly available hours could not be null": "Weekly available hours could not be null"
+    "Weekly available hours could not be null": "Weekly available hours could not be null",
+    "The allocation start date must be later than the {entityKind} {startDateText}: {startDate} {details}": "The allocation start date must be later than the {entityKind} {startDateText}: {startDate} {details}",
+    "The allocation start date must be earlier than the {entityKind} {endDateText}: {endDate} {details}": "The allocation start date must be earlier than the {entityKind} {endDateText}: {endDate} {details}",
+    "The allocation end date must be earlier than the {entityKind} {endDateText}: {endDate} {details}": "The allocation end date must be earlier than the {entityKind} {endDateText}: {endDate} {details}",
+    "The allocation end date must be later than the {entityKind} {startDateText}: {startDate} {details}": "The allocation end date must be later than the {entityKind} {startDateText}: {startDate} {details}",
+    "and the": "and the"
 }
